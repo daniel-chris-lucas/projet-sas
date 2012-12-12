@@ -1,0 +1,10 @@
+{
+	"folders":
+	[
+		{
+			"path": "/L/Local Server/sites/sandbox/projet-sas",
+			"folder_exclude_patterns": ["template"],
+			"file_exclude_patterns": ["*.sublime-project", "*.sublime-workspace"]
+		}
+	]
+}

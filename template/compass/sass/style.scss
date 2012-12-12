@@ -1,0 +1,20 @@
+@import "compass";
+@import "compass/css3";
+@import "normalize";
+
+$experimental-support-for-mozilla: true;
+$experimental-support-for-webkit: true;
+$support-for-original-webkit-gradients: true;
+$experimental-support-for-opera: true;
+$experimental-support-for-microsoft: true;
+
+//* ==|== primary styles ==================================
+//*   Author Daniel Lucas, Severing STEMPIN | Auto Prestige
+//* =======================================================
+@import "boilerplate";
+
+@import "miscellaneous";
+@import "header";
+@import "slider";
+
+@import "helpers";

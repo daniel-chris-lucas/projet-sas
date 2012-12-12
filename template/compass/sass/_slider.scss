@@ -1,0 +1,10 @@
+.slider {
+	height: 330px;
+	background: white;
+}
+
+.flexslider {
+	border: 0;
+	@include border-radius( 0 );
+	@include single-box-shadow( null, null, null, null );
+}
