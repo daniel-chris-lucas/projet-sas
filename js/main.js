@@ -20,7 +20,7 @@
 	});
 
 
-	/*var iFrames = $('iframe');
+	var iFrames = $('iframe');
       
     function iResize() {    	
     	for (var i = 0, j = iFrames.length; i < j; i++) {
@@ -46,6 +46,6 @@
     		this.style.height = this.contentWindow.document.body.offsetHeight + 'px';
     	});
     }
-    console.log( 'resize frame end' );*/
+    console.log( 'resize frame end' );
 
 })( jQuery );
